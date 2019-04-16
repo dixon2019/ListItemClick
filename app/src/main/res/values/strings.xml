@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListItemClick</string>
+<string name="tv">TextView</string>
+    <string name="conDes">iconDescription</string>
+</resources>
